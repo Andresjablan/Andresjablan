@@ -1,12 +1,16 @@
 <div align="center">
-<h1 align="center">Hi, My name is Ramiro Andres Jaimes Blanco and I am engaged in the study of software development.👋</h1>
+  <h1 style="font-weight: 600; font-size: 2.5em;">Hi, My name is Ramiro Andres Jaimes Blanco and I am engaged in the study of software development. 👋</h1>
 </div>
 
+<h2 style="font-weight: 600;">About Me</h2>
+<p style="font-size: 1.1em;">
+  Administrator with extensive experience in administrative management and process optimization. 
+  Currently enhancing my skill set as a SENA apprentice in software analysis and development. 
+  My professional journey has been marked by effective problem-solving, continuous improvement, 
+  and a customer-centric approach. Committed to professional growth and embracing new technologies 
+  to drive innovation in business environments.
+</p>
 
-<h2>About Me </h2>
-<p>Administrator with extensive experience in administrative management and process optimization. Currently enhancing my skill set as a SENA apprentice in software analysis and development. My professional journey has been marked by effective problem-solving, continuous improvement, and a customer-centric approach. Committed to professional growth and embracing new technologies to drive innovation in business environments.</p>
-
-<div>
   <h3>💡 Skills</h3>
 
 <p>🐍 Python | 📊 Pandas | 📈 Matplotlib | 🎨 Seaborn | 🔢 NumPy | 📑 Data Analysis</p>
