@@ -9,19 +9,5 @@
 
 
 
-<br>
-
-## Proyectos 
-<table>
-                                         
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-
-</table>                                                                                 
-</div>
-<br>
 
 
