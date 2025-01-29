@@ -10,6 +10,9 @@
   <h3>💡 Skills</h3>
 
 <p>🐍 Python | 📊 Pandas | 📈 Matplotlib | 🎨 Seaborn | 🔢 NumPy | 📑 Data Analysis</p>
+
+<h3>🎯 Hobbies</h3>
+<p>🎮 <em>I love video games, sports, and music!</em></p>
 <h3>💼 Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/ramiro-andres-jaimes-blanco-1922492ba">
