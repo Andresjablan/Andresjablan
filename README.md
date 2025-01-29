@@ -17,6 +17,14 @@
 
 <h3>🎯 Hobbies</h3>
 <p>🎮 <em>I love video games, sports, and music!</em></p>
+
+<h3>📂 Check out my repositories</h3>
+<p>
+  <a href="https://github.com/andresjablan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-blue?logo=github" alt="GitHub Repositories">
+  </a>
+</p>
+
 <h3>💼 Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/ramiro-andres-jaimes-blanco-1922492ba">
